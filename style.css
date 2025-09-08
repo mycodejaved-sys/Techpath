@@ -1,0 +1,31 @@
+body{
+  background-color: rgb(6, 32, 61);
+   margin: 0;
+      padding: 0;
+      font-family: Arial, sans-serif;
+      color: white;
+      text-align: center;
+}
+.abc{
+  align-content: center;
+  text-align: center;
+  padding-top: 25vh
+  
+
+}
+h1{
+  font-size: 70px;
+}
+p{
+  margin: 0;
+      padding: 0;
+  font-size: 40px;
+}
+.b{
+  font-size: 70px;
+  margin:0;
+  padding:0;
+}
+a {
+  color:white;   /* normal link color */
+}
